@@ -91,4 +91,4 @@ npm run lint
 
 ## Notes
 
-This project uses plain React state and CSS.
+This project uses plain React state and CSS. The code is intentionally simple and readable, so the main app behavior can be followed without advanced libraries or complex abstractions.
