@@ -4,11 +4,11 @@ A minimalist task manager built with React and Vite. The app lets users create, 
 
 ## Deploy
 
-Netlify link:
+Netlify link: https://to-dolist-academic.netlify.app/
 
-```text
-Deploy
-```
+## Author
+
+Marco Guevara
 
 ## Main Features
 
@@ -91,4 +91,4 @@ npm run lint
 
 ## Notes
 
-This project uses plain React state and CSS. The code is intentionally simple and readable, so the main app behavior can be followed without advanced libraries or complex abstractions.
+This project uses plain React state and CSS.
