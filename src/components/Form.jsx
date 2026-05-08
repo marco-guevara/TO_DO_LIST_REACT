@@ -229,12 +229,12 @@ export default function Form() {
             type="text"
             value={title}
             onChange={(e) => setTitle(e.target.value)}
-            placeholder="Titulo"
+            placeholder="Task..."
           />
           <textarea
             value={content}
             onChange={(e) => setContent(e.target.value)}
-            placeholder="Contenido"
+            placeholder="Content..."
           />
 
           {error && <p className="error">{error}</p>}
