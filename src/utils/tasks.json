@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "task": "Buy groceries"
+    },
+    {
+        "id": 2,
+        "task": "Finish homework"
+    },
+    {
+        "id": 3,
+        "task": "Call mom"
+    },
+    {
+        "id": 4,
+        "task": "Exercise for 30 minutes"
+    },
+    {
+        "id": 5,
+        "task": "Read a book"
+    },
+    {
+        "id": 6,
+        "task": "Clean the room"
+    },
+    {
+        "id": 7,
+        "task": "Pay bills"
+    },
+    {
+        "id": 8,
+        "task": "Learn React basics"
+    },
+    {
+        "id": 9,
+        "task": "Plan vacation"
+    },
+    {
+        "id": 10,
+        "task": "Water the plants"
+    }
+]
